@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-26T12:19:03 IST" name="Default suite" finished-at="2023-06-26T12:20:39 IST" duration-ms="95046">
+    <groups>
+    </groups>
+    <test started-at="2023-06-26T12:19:03 IST" name="Default test" finished-at="2023-06-26T12:20:39 IST" duration-ms="95046">
+      <class name="test.Sitetest">
+        <test-method is-config="true" signature="beftest()[pri:0, instance:test.Sitetest@3f6f6701]" started-at="2023-06-26T12:19:03 IST" name="beftest" finished-at="2023-06-26T12:19:11 IST" duration-ms="7268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beftest -->
+        <test-method is-config="true" signature="befmeth()[pri:0, instance:test.Sitetest@3f6f6701]" started-at="2023-06-26T12:19:11 IST" name="befmeth" finished-at="2023-06-26T12:19:18 IST" duration-ms="7234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- befmeth -->
+        <test-method signature="test()[pri:0, instance:test.Sitetest@3f6f6701]" started-at="2023-06-26T12:19:18 IST" name="test" finished-at="2023-06-26T12:20:39 IST" duration-ms="80429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- test.Sitetest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
